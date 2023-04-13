@@ -29,7 +29,7 @@ simple_web_api/requirements.txt<br>
 | Dependencies      | Tested Version | Minimum Version | Url                                                            |
 |-------------------|----------------|-----------------|----------------------------------------------------------------|
 | Python            | 3.11           | 3.7.5           | [link](https://www.python.org/downloads/release/python-3110/)  |
-| Poetry (optional) | 1.2.0          | 1.0.0           | [link](https://python-poetry.org/)                             |
+| Poetry (optional) | 1.2.0          | 1.0.0           | [link](https://python-poetry.org/)                              |
 
 ### clone o seu fork
 ````shell
